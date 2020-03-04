@@ -1,0 +1,45 @@
+body {
+	background-image: url('fundo.png');
+}
+
+.fotoCapa {
+	width: 700px;
+	height: 388px;
+	border: 8px ridge #8B0000;
+}
+
+.fotoProjeto{
+	width: 700px;
+	height: 388px;
+	border: 8px ridge #8B0000;
+
+}
+
+.fotoTrabalhos{
+	width: 600px;
+	height: 350px;
+	border: 8px ridge #8B0000
+}
+
+.menu{
+	background-color: #d2d2c1;
+	font-size: 22px;
+	width: 700px;
+	color:#332F2C;
+	margin: 10px;
+
+}
+
+a{
+	text-decoration: none;
+	padding: 5px;
+	font-weight: bold;
+	color: #4b566a;
+}
+.text1{
+	background-color: #EFEAE5;;
+	width: 700px;
+	padding: 18px;
+	font-size: 20px;
+
+}
